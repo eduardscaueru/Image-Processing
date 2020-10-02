@@ -1,0 +1,7 @@
+Scaueru Eduard 313CD
+Task1 - Am parcurs fiecare pixel si am inlocuit fiecare canal cu impartirea sumei canalelor la 3.
+Task2 - Exista 2 cazuri in acest task si pentru fiecare caz am imparitit noua imagine in 3 parti, am introdus pixelii noi si am copiat imaginea. De asemenea am salvat vechile caracteristici ale imaginii si le-am reactualizat dupa scrierea noii imagini in fisier.
+Task3 - Am creat o copie intoarsa a imaginii si am parcurs-o pixel cu pixel iar pentru fiecare pixel am parcurs vecinii acestuia si i-am actualizat daca se aflau in matrice(functia "inMatrix").
+Task4 - Se bazeaza pe aceeasi parcurgere ca la task-ul precedent doar ca aici am calculat maximele si minimele canalelor vecinilor si in functie de cerinta am pus pixelii corespunzatori.
+Task5 - In cadrul acestui task metoda de a selecta zona si apoi a o inlocui este destul de ineficienta insa este usor de inteles. Alegerea zonei o fac cu ajutorul algoritmului lui Lee si salvez pozitia fiecarui pixel din zona pentru a-l inlocui dupa calcularea acesteia cu valoarea ceruta.
+
